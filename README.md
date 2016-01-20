@@ -2,8 +2,9 @@
 Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
 
 ## Installation & Usage
+
     bundle install
-    jekyll serve --watch
+    bundle exec jekyll serve --watch
 
 _Note: Requires Ruby version 1.9.3 =>. For example use [rbenv](https://github.com/sstephenson/rbenv)_   
     
